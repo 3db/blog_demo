@@ -1,0 +1,126 @@
+/mnt/nfs/programs/conda/lib/python3.8/site-packages/IPython/paths.py:66: UserWarning: IPython parent '/scratch' is not a writable location, using a temp directory.
+  warn("IPython parent '{0}' is not a writable location,"
+[I 21:34:43.545 NotebookApp] Serving notebooks from local directory: /mnt/nfs/home/aiilyas/3db/experiments/mug_for_blog/analysis
+[I 21:34:43.545 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 21:34:43.545 NotebookApp] http://deep-gpu-8:12949/?token=469156f744206cfbf2216aa20dfd378467ac8de8c458b60c
+[I 21:34:43.545 NotebookApp]  or http://127.0.0.1:12949/?token=469156f744206cfbf2216aa20dfd378467ac8de8c458b60c
+[I 21:34:43.545 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:34:43.771 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///mnt/nfs/home/aiilyas/.local/share/jupyter/runtime/nbserver-28816-open.html
+    Or copy and paste one of these URLs:
+        http://deep-gpu-8:12949/?token=469156f744206cfbf2216aa20dfd378467ac8de8c458b60c
+     or http://127.0.0.1:12949/?token=469156f744206cfbf2216aa20dfd378467ac8de8c458b60c
+[I 21:34:55.993 NotebookApp] 302 GET /?token=469156f744206cfbf2216aa20dfd378467ac8de8c458b60c (142.79.215.80) 0.840000ms
+[I 21:35:10.136 NotebookApp] Kernel started: 3e463c37-2801-4171-b601-00cd0a0941b4, name: python3
+/mnt/nfs/programs/conda/lib/python3.8/site-packages/IPython/paths.py:66: UserWarning: IPython parent '/scratch' is not a writable location, using a temp directory.
+  warn("IPython parent '{0}' is not a writable location,"
+[I 22:16:52.076 NotebookApp] Creating new notebook in 
+[I 22:16:53.448 NotebookApp] Kernel started: 179a67fb-22dd-41f3-9774-484bb3dcda32, name: python3
+/mnt/nfs/programs/conda/lib/python3.8/site-packages/IPython/paths.py:66: UserWarning: IPython parent '/scratch' is not a writable location, using a temp directory.
+  warn("IPython parent '{0}' is not a writable location,"
+[I 22:18:53.480 NotebookApp] Saving file at /backgrounds.ipynb
+[I 22:24:54.749 NotebookApp] Saving file at /backgrounds.ipynb
+[I 22:26:28.469 NotebookApp] Saving file at /backgrounds.ipynb
+[I 22:26:28.752 NotebookApp] Saving file at /backgrounds.ipynb
+[I 22:26:30.424 NotebookApp] Starting buffering for 179a67fb-22dd-41f3-9774-484bb3dcda32:f12cdfc2de364aa3b3f88662ee6e58db
+[I 22:28:30.305 NotebookApp] Saving file at /texture_swapping.ipynb
+[I 22:29:22.346 NotebookApp] Saving file at /texture_swapping.ipynb
+[I 22:29:23.403 NotebookApp] Starting buffering for 3e463c37-2801-4171-b601-00cd0a0941b4:8f222793fca04286be3bb27d4ebeb684
+srun: forcing job termination
+slurmstepd: error: *** STEP 43334.0 ON deep-gpu-8 CANCELLED AT 2021-04-27T15:25:34 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: deep-gpu-8: task 0: Killed
+/mnt/nfs/programs/conda/lib/python3.8/site-packages/IPython/paths.py:66: UserWarning: IPython parent '/scratch' is not a writable location, using a temp directory.
+  warn("IPython parent '{0}' is not a writable location,"
+[I 21:24:21.320 NotebookApp] Serving notebooks from local directory: /mnt/nfs/home/aiilyas/3db/experiments/mug_for_blog/analysis
+[I 21:24:21.321 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 21:24:21.321 NotebookApp] http://deep-gpu-8:12485/?token=564c00204ed4876ac694d2268e4378cfbd4d47c3ce509fc5
+[I 21:24:21.321 NotebookApp]  or http://127.0.0.1:12485/?token=564c00204ed4876ac694d2268e4378cfbd4d47c3ce509fc5
+[I 21:24:21.321 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:24:21.329 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///mnt/nfs/home/aiilyas/.local/share/jupyter/runtime/nbserver-8847-open.html
+    Or copy and paste one of these URLs:
+        http://deep-gpu-8:12485/?token=564c00204ed4876ac694d2268e4378cfbd4d47c3ce509fc5
+     or http://127.0.0.1:12485/?token=564c00204ed4876ac694d2268e4378cfbd4d47c3ce509fc5
+[I 21:24:51.089 NotebookApp] 302 GET /?token=564c00204ed4876ac694d2268e4378cfbd4d47c3ce509fc5 (142.79.215.80) 1.020000ms
+[I 21:24:51.939 NotebookApp] 302 GET /?token=564c00204ed4876ac694d2268e4378cfbd4d47c3ce509fc5 (142.79.215.80) 0.750000ms
+[I 21:25:38.873 NotebookApp] Creating new notebook in 
+[I 21:25:42.128 NotebookApp] Kernel started: 250c31c8-9099-4525-a13f-dee4cc9a52ff, name: python3
+/mnt/nfs/programs/conda/lib/python3.8/site-packages/IPython/paths.py:66: UserWarning: IPython parent '/scratch' is not a writable location, using a temp directory.
+  warn("IPython parent '{0}' is not a writable location,"
+[I 21:27:42.104 NotebookApp] Saving file at /Untitled.ipynb
+[I 21:44:28.469 NotebookApp] Kernel started: fbe56f1c-74e7-48be-a50b-885fbb2435cd, name: python3
+/mnt/nfs/programs/conda/lib/python3.8/site-packages/IPython/paths.py:66: UserWarning: IPython parent '/scratch' is not a writable location, using a temp directory.
+  warn("IPython parent '{0}' is not a writable location,"
+[I 21:46:16.181 NotebookApp] Saving file at /heatmaps.ipynb
+[I 21:46:28.481 NotebookApp] Saving file at /texture_swapping.ipynb
+[I 21:48:16.235 NotebookApp] Saving file at /heatmaps.ipynb
+[I 21:50:16.389 NotebookApp] Saving file at /heatmaps.ipynb
+[I 21:52:16.176 NotebookApp] Saving file at /heatmaps.ipynb
+[I 21:54:24.852 NotebookApp] Saving file at /heatmaps.ipynb
+[I 21:58:27.153 NotebookApp] Saving file at /heatmaps.ipynb
+[I 22:00:27.157 NotebookApp] Saving file at /heatmaps.ipynb
+[I 22:02:27.154 NotebookApp] Saving file at /heatmaps.ipynb
+[I 22:03:14.773 NotebookApp] Kernel interrupted: 250c31c8-9099-4525-a13f-dee4cc9a52ff
+[I 22:03:15.010 NotebookApp] Kernel interrupted: 250c31c8-9099-4525-a13f-dee4cc9a52ff
+[I 22:04:27.178 NotebookApp] Saving file at /heatmaps.ipynb
+[I 22:06:27.707 NotebookApp] Saving file at /heatmaps.ipynb
+[I 22:08:27.292 NotebookApp] Saving file at /heatmaps.ipynb
+[I 22:10:27.219 NotebookApp] Saving file at /heatmaps.ipynb
+[I 22:12:27.284 NotebookApp] Saving file at /heatmaps.ipynb
+[I 22:14:27.244 NotebookApp] Saving file at /heatmaps.ipynb
+[I 22:20:30.096 NotebookApp] Saving file at /heatmaps.ipynb
+[I 22:22:30.097 NotebookApp] Saving file at /heatmaps.ipynb
+[I 22:24:30.307 NotebookApp] Saving file at /heatmaps.ipynb
+[I 22:28:30.285 NotebookApp] Saving file at /heatmaps.ipynb
+[I 22:30:30.314 NotebookApp] Saving file at /heatmaps.ipynb
+[I 22:32:30.504 NotebookApp] Saving file at /heatmaps.ipynb
+[I 22:39:46.335 NotebookApp] Saving file at /texture_swapping.ipynb
+[I 00:16:22.374 NotebookApp] Uploading file to /full2.parquet
+[I 00:17:05.230 NotebookApp] Saving file at /full2.parquet
+[W 00:18:00.921 NotebookApp] delete /full2.parquet
+[I 01:18:33.505 NotebookApp] Starting buffering for fbe56f1c-74e7-48be-a50b-885fbb2435cd:7066ea5a06184a8da0885ce5fb148b8c
+[I 01:18:41.236 NotebookApp] Creating new notebook in 
+[I 01:18:43.284 NotebookApp] Kernel started: 07fe2757-2207-4fd9-a4e0-30009e4d23ba, name: python3
+/mnt/nfs/programs/conda/lib/python3.8/site-packages/IPython/paths.py:66: UserWarning: IPython parent '/scratch' is not a writable location, using a temp directory.
+  warn("IPython parent '{0}' is not a writable location,"
+[I 01:20:43.279 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:24:43.292 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:26:43.295 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:28:43.313 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:30:43.446 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:32:43.318 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:34:43.543 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:36:43.402 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:38:43.312 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:40:43.342 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:42:43.411 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:44:43.337 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:46:43.423 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:48:43.451 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:50:43.374 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:52:43.543 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:54:43.427 NotebookApp] Saving file at /Untitled.ipynb
+[I 01:58:43.408 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:00:43.377 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:02:43.371 NotebookApp] Saving file at /Untitled.ipynb
+[I 03:03:43.183 NotebookApp] Saving file at /PretrainedAccs.ipynb
+[I 03:03:43.926 NotebookApp] Saving file at /PretrainedAccs.ipynb
+[I 03:04:46.065 NotebookApp] Saving file at /PretrainedAccs.ipynb
+[I 03:04:51.099 NotebookApp] Saving file at /PretrainedAccs.ipynb
+[I 03:04:52.498 NotebookApp] Starting buffering for 07fe2757-2207-4fd9-a4e0-30009e4d23ba:84295f34d1f0410a8d2c42c239b50210
+[W 04:57:16.047 NotebookApp] Notebook backgrounds.ipynb is not trusted
+[I 04:57:16.405 NotebookApp] Kernel started: 3ee72de6-fb29-47ed-8531-f5487550480d, name: python3
+/mnt/nfs/programs/conda/lib/python3.8/site-packages/IPython/paths.py:66: UserWarning: IPython parent '/scratch' is not a writable location, using a temp directory.
+  warn("IPython parent '{0}' is not a writable location,"
+[W 05:04:55.508 NotebookApp] Notebook texture_swapping.ipynb is not trusted
+[I 05:37:07.724 NotebookApp] Saving file at /backgrounds.ipynb
+[I 05:37:10.443 NotebookApp] Starting buffering for 3ee72de6-fb29-47ed-8531-f5487550480d:2e7d878750bc4c6b88155f6cfa37aedd
+[I 05:37:22.001 NotebookApp] Saving file at /texture_swapping.ipynb
+[I 05:37:22.560 NotebookApp] Starting buffering for fbe56f1c-74e7-48be-a50b-885fbb2435cd:d39c0dbcb05c431e99fad1c2c1166c5a
+[I 05:37:47.575 NotebookApp] Saving file at /heatmaps.ipynb
+[I 05:37:49.241 NotebookApp] Starting buffering for 250c31c8-9099-4525-a13f-dee4cc9a52ff:0cbf7c0c763f44e8884dbeecf32c9a51
