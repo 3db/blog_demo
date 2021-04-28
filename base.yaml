@@ -12,7 +12,7 @@ inference:
 evaluation:
   module: 'threedb.evaluators.classification'
   args:
-    classmap_path: '/mnt/nfs/home/aiilyas/3db/3db/resources/ycb_to_IN.json'
+    classmap_path: './resources/ycb_to_IN.json'
     topk: 1
 render_args:
   engine: 'threedb.rendering.render_blender'

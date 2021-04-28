@@ -1,4 +1,4 @@
-base_config: "/mnt/nfs/home/aiilyas/3db/experiments/mug_for_blog/base.yaml"
+base_config: "./base.yaml"
 policy:
   module: "threedb.policies.random_search"
   samples: 20

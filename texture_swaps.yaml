@@ -1,4 +1,4 @@
-base_config: "/mnt/nfs/home/aiilyas/3db/experiments/mug_for_blog/base.yaml"
+base_config: "./base.yaml"
 controls:
   - module: "threedb.controls.blender.orientation"
     rotation_X: -1.57
