@@ -1,0 +1,23 @@
+base_config: "/mnt/nfs/home/aiilyas/3db/experiments/mug_for_blog/base.yaml"
+render_args:
+  engine: 'threedb.rendering.render_blender'
+  resolution: 256
+  samples: 16
+  with_uv: True
+controls:
+  - module: "threedb.controls.blender.orientation"
+    rotation_x: -1.57
+    rotation_y: 0.
+    rotation_z: [-3.14, 3.14]
+  - module: "threedb.controls.blender.camera"
+    zoom_factor: [0.7, 1.3]
+    view_point_x: 1.
+    view_point_y: 1.
+    view_point_z: 1.
+    aperture: 8.
+    focal_length: 50.
+  - module: "threedb.controls.blender.denoiser"
+  - module: "threedb.controls.blender.background"
+    H: 1.
+    S: 0.
+    V: 1.
