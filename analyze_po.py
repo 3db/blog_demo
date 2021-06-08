@@ -19,7 +19,7 @@ uv_num_correct = np.zeros((256, 256))
 uv_num_visible = np.zeros((256, 256))
 for imid in df["id"].unique().tolist():
     is_correct = float(df.set_index('id').loc[imid]['is_correct'])
-    vis_coords_im = Image.open(os.path.join(DIR, 'images/{imid}_uv.png'))
+    vis_coords_im = Image.open(os.path.join(DIR, f'images/{imid}_uv.png'))
     vis_coords = np.array(vis_coords_im).reshape(-1, 3)
     # R and G channels encode texture coordinates (x, y), 
     # B channel is 255 for object and 0 for background
