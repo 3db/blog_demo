@@ -2,7 +2,6 @@ inference:
   module: 'torchvision.models'
   label_map: './resources/imagenet_mapping.json'
   class: 'resnet18'
-  output_shape: [1000]
   normalization:
     mean: [0.485, 0.456, 0.406]
     std: [0.229, 0.224, 0.225]
@@ -20,7 +19,7 @@ render_args:
   samples: 16
 policy:
   module: "threedb.policies.random_search"
-  samples: 100
+  samples: 5
 logging:
   logger_modules:
     - "threedb.result_logging.image_logger"
