@@ -1,7 +1,7 @@
 base_config: "./base.yaml"
 policy:
   module: "threedb.policies.random_search"
-  samples: 20
+  samples: 5
 controls:
   - module: "threedb.controls.blender.orientation"
   - module: "threedb.controls.blender.camera"
